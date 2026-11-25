@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Days+One&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Permanent+Marker&family=Rock+Salt&display=swap');
+* {
+margin: 0; 
+font-family: "Archivo", sans-serif, 
+}
+
+body {
+  background-color: #0F0E0E;
+  color:#F5F5F5;
+  font-family: "Inter", sans-serif;
+  font-size:16px
+}
+
+main {
+  max-width:500px;
+  margin: auto;
+}
+
+h1 {
+  font-family: "Rock Salt", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  color:#FDFDFD;
+  font-size:40px; 
+}
+
+h2, hr {
+  margin-top: 25px ; 
+}
+
+h2 { font-family: "Days One", san-serif ; 
+   font-size:22px ; }
+
+p {
+  padding: 10px;
+}
+
+figure {
+  max-width: 400px;
+  margin: auto;
+  background-color: #E6E5B9;
+  border: solid #E6E5B9 10px;
+}
+
+figure img {
+  max-width: 100%;
+}
+
+figcaption {
+  padding: 1em;
+  color: #000000;
+  font-family: "Permanent Marker"
